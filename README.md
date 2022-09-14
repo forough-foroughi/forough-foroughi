@@ -1,17 +1,12 @@
-## About me
+# About me
 
-Find me here
-<!--
-**forough-foroughi/forough-foroughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=forough-foroughi&color=green)
 
-Here are some ideas to get you started:
+Responsible and committed DevOps engineer, experienced with implementing, delivering, troubleshooting and monitoring DevOps, Cloud Infrastructure, Cloud Storage in a scrum environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=forough-foroughi&show_icons=true&theme=merko)
+
+## Find me here
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)](https://www.linkedin.com/in/forough-foroughi)
+[![GMail](https://img.shields.io/badge/yahoo-f0f0f0?&style=for-the-badge&logo=yahoo&logoColor=white&color=6001d2)](mailto:foroughi.forough@yahoo.com)
