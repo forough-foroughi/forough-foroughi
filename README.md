@@ -9,4 +9,5 @@ Responsible and committed DevOps engineer, experienced with implementing, delive
 
 ## Find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)](https://www.linkedin.com/in/forough-foroughi)
-[![GMail](https://img.shields.io/badge/yahoo-f0f0f0?&style=for-the-badge&logo=yahoo&logoColor=white&color=6001d2)](mailto:foroughi.forough@yahoo.com)
+[![Yahoo](https://img.shields.io/badge/yahoo-f0f0f0?&style=for-the-badge&logo=yahoo&logoColor=white&color=6001d2)](mailto:foroughi.forough@yahoo.com)
+[![Gmail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:foroughi.forough@gmail.com)
