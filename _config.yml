@@ -1,3 +1,4 @@
-title: Forough Blog
-description: DevOps & SRE Notes
-theme: cayman
+title: My Blog
+remote_theme: pages-themes/cayman@v0.3.0
+plugins:
+  - jekyll-remote-theme
